@@ -1,0 +1,105 @@
+.container {
+  padding: 20px;
+}
+.modifier-user-header {
+  position: relative;
+  height: 80px;
+  width: 85%;
+}
+.user-title {
+  display: inline-block;
+  position: absolute;
+  top: 10px;
+}
+.user-modifier {
+  position: absolute;
+  right: 5px;
+  top: 2px;
+}
+
+.container_modifier {
+  width: 25rem;
+  border: 1px solid gray;
+  border-radius: 20px;
+  z-index: 2;
+  margin-top: 100px;
+  padding: 40px;
+}
+.container_modifier-1 {
+  display: inline-block;
+  width: 28rem;
+  margin-right: 2rem;
+
+  border: 1px solid gray;
+  border-radius: 20px;
+  z-index: 2;
+  margin-top: 50px;
+  padding: 40px;
+  position: relative;
+}
+
+.btn-modifier {
+  margin-bottom: 30px;
+  background-color: indianred;
+}
+.btn-modifier-1 {
+  background-color: gray;
+}
+#users {
+  font-family: "Roboto", sans-serif;
+  border-bottom: 2px solid gray;
+  margin-bottom: 5px;
+  font-weight: 300;
+}
+label {
+  font-family: "Varela Round", sans-serif;
+  font-weight: 300;
+}
+#albums {
+  font-family: "Source Code Pro", monospace;
+  border-bottom: 2px solid gray;
+  margin-bottom: 5px;
+}
+
+.title {
+  font-family: "Varela Round", sans-serif;
+  font-size: 2rem;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  font-weight: bolder;
+}
+.form-group {
+  font-family: "Source Code Pro", monospace;
+  padding-left: 3rem;
+}
+.form-group label {
+  font-size: 2rem;
+  font-weight: bold;
+}
+.form-group input {
+  width: 25rem;
+}
+.btn {
+  font-family: "Varela Round", sans-serif;
+
+  font-size: 1.5rem;
+  font-weight: lighter;
+  margin-right: 0.5rem;
+  margin-bottom: 0.8rem;
+}
+.modal-title {
+  font-family: "Source Code Pro", monospace;
+  font-size: 2.2rem;
+  font-weight: bold;
+}
+h5 {
+  font-family: "Varela Round", sans-serif;
+  font-weight: bolder;
+}
+h3 {
+  font-family: "Varela Round", sans-serif;
+  font-weight: lighter;
+}
+.margin--nod {
+  margin-bottom: 20px;
+}
